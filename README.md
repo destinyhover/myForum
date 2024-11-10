@@ -1,1 +1,1 @@
-Simple probe of forum on ruby sinatra
+Simple try of forum on ruby sinatra
